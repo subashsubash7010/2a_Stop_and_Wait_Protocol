@@ -75,7 +75,8 @@ print("Client: Transmission completed.")
 client_socket.close()
 ```
 ## OUTPUT
-<img width="1671" height="772" alt="Screenshot 2025-09-02 155756" src="https://github.com/user-attachments/assets/83c3c4c1-e074-41ad-8e68-a746188e545d" />
+<img width="1521" height="887" alt="image" src="https://github.com/user-attachments/assets/7585cac8-ae65-4989-9379-eb9086fb7a90" />
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
